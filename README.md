@@ -11,5 +11,5 @@ This is a simple **Text-to-Image AI generator** using **Hugging Face's Stable Di
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/yourusername/text-to-image-app.git
+git clone https://github.com/cmvignesh5599/text-to-image-app.git
 cd text-to-image-app
